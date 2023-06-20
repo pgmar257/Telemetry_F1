@@ -35,3 +35,17 @@ conda install -c conda-forge fastf1
 
 La documentación oficial la podrás encontrar aquí:
 [docs.fastf1.dev](https://docs.fastf1.dev)
+
+## Análisis :bar_chart:
+
+Realicé un análisis de Telemetría del Gran Premio de Australia, el cual se encuentra alojado en la carpeta `Notebook` de este mismo repo.
+
+Fue realizado principalmente con las siguientes librerías:
+- ![](https://img.shields.io/badge/Pandas%20-8A2BE2)
+- ![](https://img.shields.io/badge/Numpy%20-8A2BE2)
+- ![](https://img.shields.io/badge/Matplotlib%20-8A2BE2)
+
+## Referencias :copyright:
+
+https://theoehrly.github.io/Fast-F1/
+
