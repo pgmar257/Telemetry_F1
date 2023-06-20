@@ -6,7 +6,7 @@ FastF1 es una biblioteca de Python que proporciona herramientas y funcionalidade
 ![](img/readme.png)
 
 
-## Principales características :white_check_mark:
+## Principales características 
 
 - Acceso a datos de tiempo, telemetría, resultados de sesiones de Fórmula 1 y más.
 - Soporte completo para Ergast para acceder a datos actuales e históricos de la Fórmula 1.
@@ -15,7 +15,7 @@ FastF1 es una biblioteca de Python que proporciona herramientas y funcionalidade
 - Integración con Matplotlib para facilitar la visualización de datos.
 - Implementa almacenamiento en caché para todas las solicitudes de API para acelerar la ejecución de tus scripts.
 
-## Instalación :wrench:
+## Instalación
 
 Instalamos FastF1 utilizando `pip`
 ```commandline
@@ -31,12 +31,12 @@ También puedes instalarlo utilizando conda:
 conda install -c conda-forge fastf1
 ```
 
-## Documentación :page_facing_up:
+## Documentación 
 
 La documentación oficial la podrás encontrar aquí:
 [docs.fastf1.dev](https://docs.fastf1.dev)
 
-## Análisis :bar_chart:
+## Análisis 
 
 Realicé un análisis de Telemetría del Gran Premio de Australia, el cual se encuentra alojado en la carpeta `Notebook` de este mismo repo.
 
@@ -45,7 +45,7 @@ Fue realizado principalmente con las siguientes librerías:
 - ![](https://img.shields.io/badge/Numpy%20-8A2BE2)
 - ![](https://img.shields.io/badge/Matplotlib%20-8A2BE2)
 
-## Referencias :copyright:
+## Referencias 
 
 https://theoehrly.github.io/Fast-F1/
 
